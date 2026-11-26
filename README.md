@@ -1,2 +1,11 @@
-# nw_dw_683020262-2
-python env project
+# **Command Lines**
+
+create python env eith the name: .venv
+
+`python -m venv .venv`
+
+``` python
+python -m venv .venv
+pip install -r requirements.txt 
+
+print('Hello World')
